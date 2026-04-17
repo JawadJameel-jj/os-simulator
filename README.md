@@ -1,6 +1,6 @@
-# 🎓 jigglyOS — Operating System Simulator in C
+# 🎓 JJ's OS — Operating System Simulator in C
 
-Welcome to **jigglyOS**, a terminal-based Operating System Simulator built entirely in **C**, developed as a final project for the Operating Systems Lab.
+Welcome to **JJ's OS**, a terminal-based Operating System Simulator built entirely in **C**, developed as a final project for the Operating Systems Lab.
 
 This simulator replicates the foundational behavior of a real OS — including process creation, scheduling, multitasking, and resource management — all within a controlled CLI environment (no hardware-level access required).
 
@@ -8,7 +8,7 @@ This simulator replicates the foundational behavior of a real OS — including p
 
 ## 📘 Overview
 
-**jigglyOS** mimics essential OS-level operations such as:
+**JJ's OS** mimics essential OS-level operations such as:
 - Simulated boot sequence
 - Independent task terminals
 - Memory and CPU core management
